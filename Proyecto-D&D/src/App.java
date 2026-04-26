@@ -10,7 +10,6 @@ public class App {
         g1.atacar();
         m1.atacar();
 
-        // Acceso estático (PDF Estáticos)
         System.out.println("Total de personajes creados: " + Personaje.totalPersonajes);
     }
 }
